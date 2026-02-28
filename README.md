@@ -1,15 +1,27 @@
-### ⚠️ : Entering my Github profile may cause an insatiable desire to hire me on the spot. Proceed with caution.
-- 🔭 I’m currently working on [MercadoLibre](https://www.linkedin.com/company/mercadolibre)
-<!--
-**spereyra-dev/spereyra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Santiago Pereyra
 
-Here are some ideas to get you started:
+Senior Software Engineer [@MercadoLibre](https://www.linkedin.com/company/mercadolibre)  
+Building B2B/B2C digital products in LatAm — from idea to production: **product + AI + growth + operations**.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- **Liga Barrio** — operating system for amateur tournaments (football/padel): fixtures, payments, stats, ELO, PWA.
+- **Predilecta Client Manager** — CRM + AI-generated briefs + RAG + assisted design/budget workflows.
+- **Reserva de Espacios** — white-label stand booking platform with an interactive map.
+- **FloodGuardian** — edge IoT flood monitoring (LoRa/MQTT) with predictive alerts.
+- **Brava Labs** — landing + internal operating system for commercial execution.
+
+## Current focus
+
+- Turning products into real businesses (adoption, retention, MRR).
+- AI-first systems with measurable operational impact.
+- Simple architectures, fast shipping, tight iteration loops.
+
+## Tech
+
+`Python` `FastAPI` `Flask` `PostgreSQL` `pgvector` `React` `Vite` `Next.js` `Docker` `MQTT` `InfluxDB` `Grafana`
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/santiago-pereyra](https://www.linkedin.com/in/santiago-pereyra/)
+- If you need to take a product from idea to production, let’s talk.

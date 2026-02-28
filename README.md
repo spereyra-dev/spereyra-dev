@@ -7,7 +7,6 @@ Building B2B/B2C digital products in LatAm — from idea to production: **produc
 
 - **Liga Barrio** — operating system for amateur tournaments (football/padel): fixtures, payments, stats, ELO, PWA.
 - **Predilecta Client Manager** — CRM + AI-generated briefs + RAG + assisted design/budget workflows.
-- **Reserva de Espacios** — white-label stand booking platform with an interactive map.
 - **FloodGuardian** — edge IoT flood monitoring (LoRa/MQTT) with predictive alerts.
 - **Brava Labs** — landing + internal operating system for commercial execution.
 

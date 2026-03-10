@@ -18,9 +18,9 @@ Building B2B/B2C digital products in LatAm — from idea to production: **produc
 
 ## Tech
 
-`Python` `FastAPI` `Flask` `PostgreSQL` `pgvector` `React` `Vite` `Next.js` `Docker` `MQTT` `InfluxDB` `Grafana`
+`Python` `FastAPI` `Flask` `PostgreSQL` `pgvector` `React` `Vite` `Next.js` `Docker` `MQTT` `InfluxDB` `Grafana` `Odoo`
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/santiago-pereyra](https://www.linkedin.com/in/santiago-pereyra/)
-- If you need to take a product from idea to production, let’s talk.
+- If you need to take a product from idea to production, [let’s talk](https://bravalabs.software).

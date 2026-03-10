@@ -1,20 +1,21 @@
 # Santiago Pereyra
 
-Senior Software Engineer [@MercadoLibre](https://www.linkedin.com/company/mercadolibre)  
-Building B2B/B2C digital products in LatAm — from idea to production: **product + AI + growth + operations**.
+Senior Software Engineer at [MercadoLibre](https://www.linkedin.com/company/mercadolibre), building operational software and AI-assisted systems in LatAm.
+
+I build products from idea to production: internal tools, AI workflows, growth systems, and business operations with a strong focus on speed, simplicity, and real adoption.
 
 ## What I'm building
 
-- **Liga Barrio** — operating system for amateur tournaments (football/padel): fixtures, payments, stats, ELO, PWA.
-- **Predilecta Client Manager** — CRM + AI-generated briefs + RAG + assisted design/budget workflows.
-- **FloodGuardian** — edge IoT flood monitoring (LoRa/MQTT) with predictive alerts.
-- **Brava Labs** — landing + internal operating system for commercial execution.
+- **Liga Barrio** — operating system for amateur tournaments: fixtures, payments, stats, ELO, and PWA experience.
+- **Predilecta Client Manager** — CRM with AI-generated briefs, RAG, and assisted design/budget workflows.
+- **FloodGuardian** — edge IoT flood monitoring with LoRa/MQTT and predictive alerts.
+- **Brava Labs** — software studio building internal tools, commercial systems, and AI-assisted workflows.
 
 ## Current focus
 
-- Turning products into real businesses (adoption, retention, MRR).
-- AI-first systems with measurable operational impact.
-- Simple architectures, fast shipping, tight iteration loops.
+- Turning products into real businesses through adoption, retention, and recurring revenue.
+- Building AI-first systems with measurable operational impact.
+- Keeping architectures simple, shipping fast, and iterating with tight feedback loops.
 
 ## Tech
 
@@ -23,4 +24,4 @@ Building B2B/B2C digital products in LatAm — from idea to production: **produc
 ## Contact
 
 - LinkedIn: [linkedin.com/in/santiago-pereyra](https://www.linkedin.com/in/santiago-pereyra/)
-- If you need to take a product from idea to production, [let’s talk](https://bravalabs.software).
+- If you need to take a product from idea to production, [let’s talk](https://bravalabs.software)

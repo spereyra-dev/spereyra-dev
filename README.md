@@ -1,27 +1,27 @@
 # Santiago Pereyra
 
-Senior Software Engineer at [MercadoLibre](https://www.linkedin.com/company/mercadolibre), building operational software and AI-assisted systems in LatAm.
+Software Engineer with +10 years building stuff in software factories, breaking things, and mostly having fun.
 
-I build products from idea to production: internal tools, AI workflows, growth systems, and business operations with a strong focus on speed, simplicity, and real adoption.
+I like taking ideas from "what if?" to something usable. No overcomplicating, no formal corporate fluff — just building cool projects, testing ideas, and lately playing around with a lot of AI experiments :)
 
 ## What I'm building
 
-- **Liga Barrio** — operating system for amateur tournaments: fixtures, payments, stats, ELO, and PWA experience.
-- **Predilecta Client Manager** — CRM with AI-generated briefs, RAG, and assisted design/budget workflows.
-- **FloodGuardian** — edge IoT flood monitoring with LoRa/MQTT and predictive alerts.
-- **Brava Labs** — software studio building internal tools, commercial systems, and AI-assisted workflows.
+- **Liga Barrio** — operating system for amateur sports tournaments: fixtures, stats, ELO, payments, and PWA.
+- **Predilecta Client Manager** — CRM experiment with AI-generated briefs, RAG, and automated proposal workflows.
+- **FloodGuardian** — edge IoT flood monitoring using LoRa/MQTT and predictive alerts.
+- **Brava Labs** — my playground for side projects, internal tools, and AI workflows.
 
-## Current focus
+## What I'm up to
 
-- Turning products into real businesses through adoption, retention, and recurring revenue.
-- Building AI-first systems with measurable operational impact.
-- Keeping architectures simple, shipping fast, and iterating with tight feedback loops.
+- Don't take me too seriously — I just love testing new tech and building things that work.
+- Lately obsessed with AI agents, LLM experiments, and building AI-first tools.
+- Keeping stuff simple, breaking things fast, and learning by building.
 
 ## Tech
 
 `Python` `FastAPI` `Flask` `PostgreSQL` `pgvector` `React` `Vite` `Next.js` `Docker` `MQTT` `InfluxDB` `Grafana` `Odoo`
 
-## Contact
+## Say hi
 
 - LinkedIn: [linkedin.com/in/santiago-pereyra](https://www.linkedin.com/in/santiago-pereyra/)
-- If you need to take a product from idea to production, [let’s talk](https://bravalabs.software)
+- Want to build something cool or just talk tech? Let’s chat :)
